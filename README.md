@@ -1,4 +1,5 @@
-# EDA Business Scenario: Localized Sales Optimization for a Global Retail Chain
+# EDA Business Scenario 
+Localized Sales Optimization for a Global Retail Chain
 
 ## Objective
 Stakeholders want to develop city-level sales strategies to improve the retail chain's performance in specific urban areas. By analyzing sales data at the city level, the company aims to identify cities with high sales potential, optimize delivery logistics, and tailor product offerings to urban demand.
