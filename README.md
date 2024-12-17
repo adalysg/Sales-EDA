@@ -1,18 +1,14 @@
-# EDA Business Scenario 
-Localized Sales Optimization for a Global Retail Chain
+# Project Background
+Totally Real is a global e-commerce shop owned by a popular, online influencer that sells merchandise (clothes, ornaments, other) to fans via its retail website. 
 
-## Objective
-Stakeholders want to develop city-level sales strategies to improve the retail chain's performance in specific urban areas. By analyzing sales data at the city level, the company aims to identify cities with high sales potential, optimize delivery logistics, and tailor product offerings to urban demand.
+Between the years of 2023-2024, sales data was recorded in an effort to improve sales performance and customer satisfaction. The aim of this project was to analyze and synthesize this data in order to uncover valuable insights that drive up sales and leave Totally Real's customers happy.
 
-## Sample Questions to Address
-City-Level Sales Performance:
-*Which recorded cities contribute the most and least to overall sales?*
+# Data Structure Overview
 
-Urban Product Demand: 
-*Which products or categories are most popular in each city?*
+# Executive Summary
 
-Delivery and Logistics: 
-*Which cities have the highest order volumes that may require improved logistics or inventory management?*
+### Overview of Findings
 
-Expansion Opportunities: 
-*Which underperforming cities could benefit from targeted marketing campaigns?*
+### Insights
+
+### Recommendations
